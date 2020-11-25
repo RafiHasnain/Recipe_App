@@ -8,9 +8,12 @@
     background: white;
     align-items: center;
     min-width: 40%;
+    padding: 10px;
 }
+
 .image{
     border-radius: 50%;
     width: 150px;
     height: 150px;
+    margin: 20px;
 }
